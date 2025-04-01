@@ -19,19 +19,19 @@
 //	}
 //	return 0;
 //}
-
-int main() {
-	int a;
-	int b;
-	int c;
-	int d;
-	scanf_s("%d%d" ,&a, &b);
-	d = a > b ? a:b;
-	scanf_s("%d", &c);
-	d = d > c ? d : c;
-	printf("%d", d);
-	return 0;
-}
+//
+//int main() {
+//	int a;
+//	int b;
+//	int c;
+//	int d;
+//	scanf_s("%d%d" ,&a, &b);
+//	d = a > b ? a:b;
+//	scanf_s("%d", &c);
+//	d = d > c ? d : c;
+//	printf("%d", d);
+//	return 0;
+//}
 
 //int main()
 //{

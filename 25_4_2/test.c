@@ -47,3 +47,41 @@
 //	}
 //	return 0;
 //}
+
+//int main() {
+//	int x = 0;
+//	scanf_s("%d", &x);
+//	int y = 0;
+//	if (x < 1) {
+//		y = 2;
+//	}
+//	else if(x<10){
+//		y = 2*x - 1;
+//	}
+//	else {
+//		y = 3 * x - 11;
+//	}
+//	printf("%d", y);
+//	return 0;
+//}
+ /* 
+int main() {
+	int a = 0;
+	scanf_s("%d", &a);
+	if (a < 60) {
+		printf("E");
+	}
+	else if (a <= 69)
+		printf("D");
+	else if (a <= 79)
+		printf("C");
+	else if (a <= 89)
+		printf("B");
+	else if (a <= 100)
+		printf("A");
+	else
+		printf("请输入100以内的数字");
+
+	return 0;
+}*/
+
